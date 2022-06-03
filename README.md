@@ -1,8 +1,8 @@
--#sobre mim 
+-sobre mim 
 -
 -  👋 hii, am i @anachqtt
 - 👀 I study in Paraná
-- 🌱 I’m currently learning to program
+- 🌱 I’m currently learning to game
 - 💞️ I’m looking to collaborate on with my school
 - 📫 How to reach me by this app
 
